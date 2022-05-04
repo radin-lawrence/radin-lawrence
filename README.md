@@ -2,10 +2,8 @@
 
 ##### Welcome to my GitHub,
 
-<a href="https://www.github.com/radin-lawrence" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/radin-lawrence?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
-![](https://visitor-badge.laobi.icu/badge?page_id=radinlawrence) [![Github](https://img.shields.io/github/followers/radinlawrence?label=Follow&style=social)](https://github.com/radinlawrence)
+![](https://visitor-badge.laobi.icu/badge?page_id=radinlawrence) [![Github](https://img.shields.io/github/followers/radin-lawrence?logo=github&style)](https://github.com/radin-lawrence)
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 <p align="center">
