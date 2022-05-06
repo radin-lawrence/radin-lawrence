@@ -46,15 +46,15 @@
 
 <!-- ----------- CONNECT WITH ME SECTION ------------ -->
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=5082e2&size=40&center=true&vCenter=true&width=550&height=40&lines=Connect+with+me">
+<img src="https://readme-typing-svg.herokuapp.com?color=5082e2&size=40&center=true&vCenter=true&width=550&height=40&lines=Connect+with+me...">
 </p>
 
 <br>
 <div align="center">
   <br>
   <p><b>Thank you for your time.</b><br>
-    It was nice having you here.<br><br>
-    If you have any queries or just wanna say <i>Hi</i>,&nbsp;
+   <br><br>
+  If you wanna pine me  or just say <i>Hi</i>,&nbsp;
 
 <p align="center">
 <a href="https://www.linkedin.com/in/radin-lawrence-8b3270102/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
