@@ -14,7 +14,7 @@
 
 
 -----
-<center><img alt="Awesome GitHub Profile Readme" src="DEVOPS.gif"> </img></center>
+<center><img alt="Awesome GitHub Profile Readme" src=""> </img></center>
 
 ### Skills
 
