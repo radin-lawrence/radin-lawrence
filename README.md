@@ -13,7 +13,8 @@
 <hr>
 
 
-
+-----
+<center><img alt="Awesome GitHub Profile Readme" src="DEMO_2.gif"> </img></center>
 
 ### Skills
 
